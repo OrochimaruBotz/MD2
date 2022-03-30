@@ -25,7 +25,7 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 let btn = [{
                                 urlButton: {
                                     displayText: `Github`,
-                                    url: `https://github.com/Nakataaard`
+                                    url: `https://kevinafsarmanik.github.io/nino-wife.github.io/`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3148,7 +3148,7 @@ let sectionnya= [{
 						]
 hisoka.sendList(m.chat, `Halo ${pushname}`, `───❑ INFO BOT
 
-LIBRAY:  *NahBotz  MD*`, "Nakataa", "List Bor ", sectionnya, { quoted: m})
+LIBRAY:  *vinzt  MD*`, "Nakataa", "List Bor ", sectionnya, { quoted: m})
 break
 case 'grupmenu': {
 	            anu = `
