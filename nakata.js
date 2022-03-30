@@ -2673,9 +2673,9 @@ break
 ╭─ *Bot Info* ─╮       
 
 Libray : *Baileys Multi Device*
-Name Bot : *NahBotz-MD²*
-Creator : *NakataArdnt*
-Author : *NakataArdnta.*
+Name Bot : *Vinzzt-MD²*
+Creator : *Kevin afsar*
+Author : *Kevin afsar.*
 User Total : *${Object.keys(global.db.data.users).length}*
  
 ╰─────────╯
@@ -2990,7 +2990,7 @@ User Total : *${Object.keys(global.db.data.users).length}*
                 let btn = [{
                                 urlButton: {
                                     displayText: 'S C R I P T',
-                                    url: 'https://github.com/Nakataaard/MD2'
+                                    url: 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3511,6 +3511,7 @@ Fatih Arridho.
 Deff
 Juna Bot
 NakataArdnt
+Kevin afsar manik
 KurrXd
 Dan All Friend Yang Membantu Merakit Sc ini !!!`)
 break
