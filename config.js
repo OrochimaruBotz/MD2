@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283802905703','6283802905703']
-global.web = 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
-global.bot = 'vinzzt-MD²'
-global.premium = ['6283802905703']
-global.packname = 'kepin ganteng'
-global.author = 'kepin ganteng'
+global.owner = ['6288804947282','62888049472828']
+global.web = 'https://github.com/OrochimaruBotz'
+global.bot = 'HumanzBotzMD²'
+global.premium = ['6288804947282']
+global.packname = 'Humanz Tampnz'
+global.author = 'Humanz Tampnz'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
